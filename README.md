@@ -2,6 +2,8 @@
 
 # Project Overview
 
+![Project Dashboard](dashboard-snapshot/Dashboard.png)
+
 ## Objective:
 This project aims to create a comprehensive dashboard in Excel to analyze and visualize Key Performance Indicators (KPIs) related to orders. The dashboard will provide valuable insights into business metrics, facilitating swift decision-making concerning sales and order management systems.
 
@@ -17,5 +19,3 @@ This project aims to create a comprehensive dashboard in Excel to analyze and vi
 
 4. **Visualizing using Meaningful Charts:**
    - Utilize various chart types in Excel to visually represent the identified KPIs and insights, facilitating easy comprehension for stakeholders.
-  
-![Project Dashboard](dashboard-snapshot/Dashboard.png)
